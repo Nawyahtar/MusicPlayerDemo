@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_Feedback"
+        android:icon="@drawable/ic_feedback"
+        android:title="@string/nav_feedback"/>
+    <item android:id="@+id/nav_Setting"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/nav_setting"/>
+    <item android:id="@+id/nav_about"
+        android:icon="@drawable/ic_about_24"
+        android:title="@string/nav_about"/>
+    <item android:id="@+id/nav_exit"
+        android:icon="@drawable/ic_exit"
+        android:title="@string/nav_exit"/>
+
+</menu>
